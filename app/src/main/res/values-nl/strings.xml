@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FirstExcersice</string>
+    <string name="helloAndroid">Hello Android in het Nederlands!</string>
+    <string name="helloLandscapeAndroid">Hello Android In Landscape in het Nederlands</string>
+    <string name="someText">Dit is tekst in een andere kleur</string>
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FirstExcersice</string>
+    <string name="helloAndroid">Hello Android!</string>
+    <string name="helloLandscapeAndroid">Hello Android In Landscape</string>
+    <string name="someText">This is some text in another color</string>
+</resources>
